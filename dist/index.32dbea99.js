@@ -220,7 +220,6 @@
       $88ad7e3f1c0a9a7459bddcf0e7fa9bcc$var$player.id = setInterval($88ad7e3f1c0a9a7459bddcf0e7fa9bcc$var$player.run, $88ad7e3f1c0a9a7459bddcf0e7fa9bcc$var$player.time);
     },
     pause: () => {
-      console.log($88ad7e3f1c0a9a7459bddcf0e7fa9bcc$var$player.id);
       window.clearInterval($88ad7e3f1c0a9a7459bddcf0e7fa9bcc$var$player.id);
     },
     slow: () => {
